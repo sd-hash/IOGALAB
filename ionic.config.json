@@ -1,0 +1,7 @@
+{
+  "name": "IOGALAB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
